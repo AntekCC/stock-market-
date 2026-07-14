@@ -74,8 +74,6 @@ Transaction transaction = new Transaction(tradeRecord);
 
 
 
-Console.WriteLine("chuj2");
-
 
 
 
